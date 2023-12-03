@@ -1,2 +1,2 @@
 # vivid
-vivid
+vivid의 git hub
